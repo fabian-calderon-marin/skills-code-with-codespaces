@@ -1,0 +1,9 @@
+{
+  "name": "FinPago Frontend (Node.js 20)",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:20",
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint"]
+    }
+  }
+}
